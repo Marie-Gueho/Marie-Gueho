@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+![Cover](https://res.cloudinary.com/piaeonia/image/upload/v1642938451/portfolio/drawings/nbvtrufrmwplnenssgll.jpg)
+-->
 Hello!
 
 I am a French Fullstack Web Developer specialized in React!
