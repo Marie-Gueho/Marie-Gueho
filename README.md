@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Cover](https://res.cloudinary.com/piaeonia/image/upload/v1642938451/portfolio/drawings/nbvtrufrmwplnenssgll.jpg)
-bec-en-sabot.jpg
+
 -->
-![Cover](https://github.com/Marie-Gueho/Marie-Gueho/img/bec-en-sabot.jpg)
-
-Hello!
-
-I am a French Fullstack Web Developer specialized in React!
-I am currently looking for a job or an intership as I just finished my training at O'Clock development school :)
+![Cover](https://res.cloudinary.com/piaeonia/image/upload/v1645103603/portfolio/wxczlhnxzoy8rojfuwz6.png)
 
 See you soon!
-- 📫 How to reach me: marie.gueho@gmail.com
+- 📫 Feel free to contact me: marie.gueho@gmail.com
